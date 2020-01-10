@@ -1,0 +1,13 @@
+{
+  "name": "express-parser",
+  "version": "1.0.0",
+  "description": "used to parse the nested json body left by body-parser",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": "https://github.com/dawnimpulse/express-parser.git",
+  "author": "Saksham",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "3.7.4"
+  }
+}
